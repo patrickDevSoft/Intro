@@ -7,7 +7,6 @@ I am a **Software Engineering Student** . I have a strong passion for building M
 - 🔭 I’m currently working on **Mobile Apps (Cross-platform & Native)**
 - 🌱 I’m currently learning **Deep dive into C#, TypeScript & Java**
 - 🌏 Future Goal: Continuing my studies in **Canberra, Australia 🇦🇺**
-- ⚡ Fun fact: I'm waiting for **Where Winds Meet** 🎮
 
 ---
 
