@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Patrick Nguyen!
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
-
 I am a **Software Engineering Student**. I have a strong passion for building Mobile Applications and Full-stack systems.
 
 - 🔭 I’m currently working on **Mobile Apps (Cross-platform & Native)**
