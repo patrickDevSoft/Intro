@@ -2,10 +2,10 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
 
-I am a **Software Engineering Student** from Vietnam 🇻🇳. I have a strong passion for building Mobile Applications and Full-stack systems.
+I am a **Software Engineering Student** . I have a strong passion for building Mobile Applications and Full-stack systems.
 
 - 🔭 I’m currently working on **Mobile Apps (Cross-platform & Native)**
-- 🌱 I’m currently learning **Deep dive into C#, TypeScript & Python**
+- 🌱 I’m currently learning **Deep dive into C#, TypeScript & Java**
 - 🌏 Future Goal: Continuing my studies in **Canberra, Australia 🇦🇺**
 - ⚡ Fun fact: I'm waiting for **Where Winds Meet** 🎮
 
@@ -15,7 +15,6 @@ I am a **Software Engineering Student** from Vietnam 🇻🇳. I have a strong p
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
@@ -44,4 +43,4 @@ I am a **Software Engineering Student** from Vietnam 🇻🇳. I have a strong p
 ---
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](LINK_LINKEDIN_CUA_BAN)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
